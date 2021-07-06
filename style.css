@@ -1,0 +1,117 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+h1{
+    font-size: 70px;
+    color: #545454;
+    line-height: 50%;
+}
+h2{
+    font-size: 35px;
+}
+p{
+    line-height: 150%;
+    color: #545454;
+    font-size: 20px;
+}
+section{
+    display: flex;
+    
+}
+.text-color{
+    color: #e12637;
+}
+.appointment-button{
+    text-decoration: none;
+    background-image: linear-gradient(to right, #fe472d, #e12637) ;
+    padding: 20px 60px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    box-shadow: 10px 10px 50px #888888c9;
+    
+}
+.half-section{
+    width: 50%;
+    padding-left: 10%;
+}
+#top-section{
+    margin-top: 5%;
+}
+#second-half-section{
+    padding-top: 6%;
+}
+.person{
+    width: 500px;
+    height: auto;
+}
+.second-section{
+    background-image: url(images/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 10%;
+}
+.third-section{
+  padding: 0% 7% 0% 7%;
+}
+.recip{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.box{
+    
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    box-shadow: 10px 10px 50px #888888;
+   border-radius: 20px;
+
+}
+.food-box1{
+    width: 420px;
+    height: auto;
+    margin: 28px 0px 0px 2px ;
+    border-radius: 20px;
+}
+.food-box2{
+    width: 420px;
+    height: auto;
+    margin: 28px 0px 0px 2px ;
+    border-radius: 20px;
+}
+
+.food-box3{
+    width: 420px;
+    height: auto;
+    margin: 28px 0px 0px 2px ;
+    border-radius: 20px;
+}
+.count-box{
+    
+    margin:10% 8% 5% 9%;
+    padding: 50px 30px 50px 30px;
+    box-shadow: 10px 10px 50px #888888;
+    border-radius: 15px;
+}
+.count-box-text{
+    width: 33%;
+    text-align: center;
+
+}
+
+    footer{
+        text-align: center;
+        color: aliceblue;
+        background-image: linear-gradient(to right, red , #e12637);
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding-top: 70px;
+        padding-bottom: 120px;
+    }
+    .footer-text-color{
+       color:white;
+    }
