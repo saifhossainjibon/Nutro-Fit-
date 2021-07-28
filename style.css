@@ -106,7 +106,8 @@ section{
     footer{
         text-align: center;
         color: aliceblue;
-        background-image: linear-gradient(to right, red , #e12637);
+        
+        background-image: linear-gradient(to right, #485461 ,#28313b );
         background-repeat: no-repeat;
         background-size: cover;
         padding-top: 70px;
